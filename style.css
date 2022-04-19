@@ -29,7 +29,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin: 20px;
+    margin: 20px ;
 }
 button{
     padding: 15px 10px;
@@ -38,6 +38,7 @@ button{
     cursor: pointer;
     font-size: 1rem;
     font-family: 'Ubuntu', sans-serif;
+    margin: 0px 10px;
 }
 button:hover{
     background-color: hotpink;
